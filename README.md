@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TemplateGamesInc
+- 👋 Hi, I’m @TemplateGamesInc, im a young developer that wants to make games to entertain. i started to do this because of my experience in games so i wondered if i could do it too.
 - 👀 I’m interested in creating and playing gaming websites. i started playing these games on a phone and worked my way up to computer.
 - 🌱 I’m currently learning how to code more and better games then my last creation.
 - 💞️ I’m looking to collaborate on code really good games such as roblox but not like that.
